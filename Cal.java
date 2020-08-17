@@ -4,4 +4,5 @@ public class Cal{
 		int c = a + b; //维护完
 		return c;
 	}
+	public void sleep(){}
 }
